@@ -1,0 +1,14 @@
+C:\Projects\Pitstop-VehicleMangementApi-Signular\bin\Debug\netcoreapp2.2\Pitstop.VehicleManagement.deps.json
+C:\Projects\Pitstop-VehicleMangementApi-Signular\bin\Debug\netcoreapp2.2\Pitstop.VehicleManagement.runtimeconfig.json
+C:\Projects\Pitstop-VehicleMangementApi-Signular\bin\Debug\netcoreapp2.2\Pitstop.VehicleManagement.runtimeconfig.dev.json
+C:\Projects\Pitstop-VehicleMangementApi-Signular\bin\Debug\netcoreapp2.2\Pitstop.VehicleManagement.dll
+C:\Projects\Pitstop-VehicleMangementApi-Signular\bin\Debug\netcoreapp2.2\Pitstop.VehicleManagement.pdb
+C:\Projects\Pitstop-VehicleMangementApi-Signular\obj\Debug\netcoreapp2.2\VehicleManagementAPI.csprojAssemblyReference.cache
+C:\Projects\Pitstop-VehicleMangementApi-Signular\obj\Debug\netcoreapp2.2\VehicleManagementAPI.csproj.CoreCompileInputs.cache
+C:\Projects\Pitstop-VehicleMangementApi-Signular\obj\Debug\netcoreapp2.2\VehicleManagementAPI.RazorAssemblyInfo.cache
+C:\Projects\Pitstop-VehicleMangementApi-Signular\obj\Debug\netcoreapp2.2\VehicleManagementAPI.RazorAssemblyInfo.cs
+C:\Projects\Pitstop-VehicleMangementApi-Signular\obj\Debug\netcoreapp2.2\VehicleManagementAPI.AssemblyInfoInputs.cache
+C:\Projects\Pitstop-VehicleMangementApi-Signular\obj\Debug\netcoreapp2.2\VehicleManagementAPI.AssemblyInfo.cs
+C:\Projects\Pitstop-VehicleMangementApi-Signular\obj\Debug\netcoreapp2.2\VehicleManagementAPI.RazorTargetAssemblyInfo.cache
+C:\Projects\Pitstop-VehicleMangementApi-Signular\obj\Debug\netcoreapp2.2\Pitstop.VehicleManagement.dll
+C:\Projects\Pitstop-VehicleMangementApi-Signular\obj\Debug\netcoreapp2.2\Pitstop.VehicleManagement.pdb
